@@ -1,0 +1,15 @@
+body {
+    /* Het lettertype instellen */
+    font-family: sans-serif;
+    background-color: gold;
+}
+
+h1 {
+    /* Vier keer de hoogte van het daadwerkelijke lettertype */
+    font-size: 4rem;
+}
+
+/* Class opmaak start met . */
+.inspringing {
+    margin-left: 40px;
+}
